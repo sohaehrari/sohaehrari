@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:D4AF37&height=220&section=header&text=SOHA%20AHRARI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js&descAlignY=60&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:D4AF37&height=220&section=header&text=SOHA%20EHRARI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js&descAlignY=60&descSize=18"
   width="100%"
 />
 
@@ -38,7 +38,7 @@
 
 ---
 
-# ✦ Hello, I'm Soha
+# ✦ Hello, I'm Soha Ehrari
 
 <div align="center">
 
@@ -58,7 +58,7 @@ and JavaScript.**
 
 ## About Me
 
-I'm **Soha Ahrari**, a Frontend Developer passionate about transforming
+I'm **Soha Ehrari**, a Frontend Developer passionate about transforming
 ideas into clean, responsive, and meaningful digital experiences.
 
 My journey in frontend development is centered around the JavaScript
